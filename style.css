@@ -1,0 +1,123 @@
+
+* {
+    margin: auto;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+
+h1 {
+    font-size: 2.5rem;
+}
+h2 {
+    font-size: 2.8rem;
+}
+a{
+    color: black;
+    text-decoration: none;
+    
+}
+h3{
+    font-size: 2rem;
+}
+.clear {
+    clear: both;
+}
+
+nav {
+    padding: 3rem;
+}
+nav h1 {
+    float: left;
+}
+nav ul {
+    float: right;
+    list-style: none;
+    
+}
+nav li {
+    float: left;
+    margin: 0rem 2rem;
+    font-size: 1.2rem;
+}
+.Intake-opdracht {
+    background-image: url(/img/achtergrond.jpg);
+    height: 30rem;
+    background-size: cover;
+    color: white;
+    text-shadow: 3px 3px 3px black;
+    
+}
+
+.intake-text {
+    padding-left: 20rem;
+    padding-top: 10rem;}
+    
+.intake-paragraph {
+    padding-left: 20rem;
+    font-size: 1.5rem;
+
+}
+.ijssel-word {
+    color:rgb(128, 29, 228)
+}
+.Rijn-word {
+    color:rgba(228, 93, 52, 0.914)
+
+}
+
+#all-html {
+    float: left;
+ 
+ padding-left: 50px;
+ margin-left: 10rem;
+ margin-top: 3rem;
+ width: 30%;
+}
+
+#html-img {
+    width: 50px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+
+
+
+}
+.articele-text1 {
+    margin-top: 8px;
+    font-size: 12px;
+}
+
+#all-css {
+    float: right;
+    margin-right: 10rem;
+    padding-right: 90px;
+    margin-top: 3rem;
+    width: 30%;
+    
+}
+
+#css-img {
+    width: 50px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.articele-text2 {
+    margin-top: 8px;
+    font-size: 12px;
+    
+
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 10px;
+
+
+}
